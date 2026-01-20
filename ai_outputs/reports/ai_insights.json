@@ -1,0 +1,21 @@
+{
+  "dataset_size": 934157,
+  "date_range": "2025-09-01 to 2025-12-31",
+  "total_enrollments": 3367538,
+  "average_daily_enrollments": 42627,
+  "trend_direction": "Increasing",
+  "model_accuracy_r2": 0.047698312444237945,
+  "top_states": {
+    "Uttar Pradesh": 475607,
+    "Madhya Pradesh": 318723,
+    "West Bengal": 284913,
+    "Bihar": 270140,
+    "Maharashtra": 248683
+  },
+  "seasonal_pattern": {
+    "9": 4.0,
+    "10": 3.0,
+    "11": 4.0,
+    "12": 4.0
+  }
+}

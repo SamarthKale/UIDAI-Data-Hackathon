@@ -1,0 +1,15 @@
+{
+  "total_records": 1006029,
+  "total_columns": 7,
+  "missing_values": 0,
+  "duplicate_rows": 22957,
+  "columns": [
+    "date",
+    "state",
+    "district",
+    "pincode",
+    "age_0_5",
+    "age_5_17",
+    "age_18_greater"
+  ]
+}
